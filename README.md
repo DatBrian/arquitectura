@@ -46,12 +46,12 @@ El proceso de diseño de arquitectura de software suele seguir los siguientes pa
 
 La arquitectura de software es un tema abstracto que esta compuesto por algunos conceptos claves que son necesarios para entender mejor como funciona y para empezar a aplicarla en nuestros proyectos; dichos conceptos los cuales se recomienda tener claros son los siguientes:
 
-- Estilos arquitectectónicos.
-- Patrones de diseño.
-- Patrones arquitectónicos.
-- Principios SOLID.
+- [Estilos arquitectectónicos](https://github.com/DatBrian/Arquitectura_de_Software/tree/Estilos-Arquitect%C3%B3nicos).
+- [Patrones de diseño](https://github.com/DatBrian/Arquitectura_de_Software/tree/Patrones-de-dise%C3%B1o).
+- [Patrones arquitectónicos](https://github.com/DatBrian/Arquitectura_de_Software/tree/Patrones-Arquitect%C3%B3nicos).
+- [Principios SOLID](https://github.com/DatBrian/Arquitectura_de_Software/tree/Principios-SOLID).
 
-Si quieres ver mas acerca de estos temas te invito a que revises las **ramas** del repositorio en donde encontrarás información relevante acerca de estos conceptos con ejemplos.
+Si quieres ver mas acerca de estos temas te invito a que revises las **ramas** del repositorio o entres directamente al link que desees en donde encontrarás información relevante acerca de estos conceptos con ejemplos.
 
 ---
 Última actualización ***14/10/2023*** por [@DatBrian](https://github.com/DatBrian)
