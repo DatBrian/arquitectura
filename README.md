@@ -4,15 +4,15 @@
 
 ## Contenidos:
 
-- [Definición](#definición)
-- [Ejemplos de estilos arquitectónicos](#algunos-ejemplos-de-estilos-arquitectónicos)
-    - [Estilo de arquitectura en capas](#estilo-de-arquitectura-en-capas)
-        - [Ventajas de la arquitectura en capas](#ventajas)
-        - [Ejemplo de arquitectura en capas](#ejemplificación)
-    - [Estilo de arquitectura de microservicios](#desarrollo-de-microservicios)
-        - [Ventajas y desventajas de la arquitectura de microservicios](#ventajas-1)
-        - [Desarrollo de microservicios](#desarrollo-de-microservicios)
-        - [Ejemplo de arquitectura de microservicios](#ejemplificacic3b3n-1)
+1. [Definición](#definición)
+2. [Ejemplos de estilos arquitectónicos](#algunos-ejemplos-de-estilos-arquitectónicos)
+    - 2.1 [Estilo de arquitectura en capas](#estilo-de-arquitectura-en-capas)
+        - 2.1.2 [Ventajas de la arquitectura en capas](#ventajas)
+        - 2.1.3 [Ejemplo de arquitectura en capas](#ejemplificación)
+    - 2.2 [Estilo de arquitectura de microservicios](#desarrollo-de-microservicios)
+        - 2.2.1 [Ventajas y desventajas de la arquitectura de microservicios](#ventajas-1)
+        - 2.2.2 [Desarrollo de microservicios](#desarrollo-de-microservicios)
+        - 2.2.3 [Ejemplo de arquitectura de microservicios](#ejemplificacic3b3n-1)
 
 ## Definición
 
