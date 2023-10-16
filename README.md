@@ -120,7 +120,7 @@ La arquitectura dirigida por eventos es adecuada para una amplia gama de aplicac
 
 #### Ejemplificación
 
-Si quieres ver un ejemplo práctico puedes ver en la carpeta [patron_dirigida_por_eventos](patron_dirigida_por_eventos) donde encontrarás de forma explícita la estructura y funcionamiento explicado anteriormente, si tienes ya un entendimiento básico en la programación podrás notar como se secciona el código en este estilo de arquitectura.
+Si quieres ver un ejemplo práctico puedes ver en la carpeta [patron_dirigida_por_eventos](patron_dirigida_por_eventos) donde encontrarás de forma explícita la estructura y funcionamiento explicado anteriormente, si tienes ya un entendimiento básico en la programación podrás notar como se secciona el código en este patrón de arquitectura.
 
 En este ejemplo, hemos implementado una arquitectura Dirigida por Eventos para administrar un carrito de compras en una tienda en línea. El eventEmitter se encarga de gestionar los eventos, y los componentes Product y Cart se comunican a través de eventos.
 
@@ -131,4 +131,4 @@ Este es un ejemplo simple que muestra cómo el patrón Dirigida por Eventos perm
     Ten en cuenta que el event importado es propio de node.js
 
 ---
-Última actualización ***15/10/2023*** por [@DatBrian](https://github.com/DatBrian)
+Última actualización ***16/10/2023*** por [@DatBrian](https://github.com/DatBrian)
