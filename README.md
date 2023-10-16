@@ -162,7 +162,7 @@ Además de los atributos de calidad mencionados anteriormente, existen otros atr
 
 Los atributos de calidad son importantes para los desarrolladores, los usuarios y las organizaciones que dependen del software. Los desarrolladores necesitan asegurarse de que el software que crean cumpla con los requisitos de calidad para satisfacer las necesidades de los usuarios. Los usuarios necesitan asegurarse de que el software que utilizan sea confiable, seguro y fácil de usar. Las organizaciones necesitan asegurarse de que el software que utilizan sea rentable y productivo.
 
-### ¿Como puedo medir los atributos de calidad en un proyecto?
+#### ¿Como puedo medir los atributos de calidad en un proyecto?
 
 Los atributos de calidad se pueden medir de diversas formas. Algunas técnicas comunes incluyen:
 
@@ -224,4 +224,4 @@ Para terminar con estos conceptos claves de la arquitectura de software están l
 Ahí encontrarás información detallada y con ejemplos de manera que puedas entender estos principios facilmente para que puedas empezar a aplicarlos en tus proyectos.
 
 ---
-Última actualización ***15/10/2023*** por [@DatBrian](https://github.com/DatBrian)
+Última actualización ***16/10/2023*** por [@DatBrian](https://github.com/DatBrian)
