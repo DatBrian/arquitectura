@@ -1,6 +1,6 @@
 <h1 align="center"> Los principios SOLID</h1>
 
-<img src="images\banneR.png" width="100%" height="500">
+<img src="images\banner.png" width="100%" height="500">
 
 ## Contenidos:
 
